@@ -1,5 +1,8 @@
 # TF2-Linear-Regression
 
+![image](https://user-images.githubusercontent.com/87703066/180495303-191ac0f5-7278-498a-b0ff-799a614105ac.png)
+
+
 Pembuatan model linear regresi dengan menggunakan tensorflow v2
 
 Langkah-langkah yang digunakan:
